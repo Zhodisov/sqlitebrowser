@@ -14,6 +14,9 @@
 </div>
 
 
+
+
+
 # DB Browser for SQLite
 
 [![Join the chat at https://gitter.im/sqlitebrowser/sqlitebrowser][gitter-img]][gitter]
